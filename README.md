@@ -1,65 +1,37 @@
 # Hi, I'm Miguel 👋
 
+### Backend & AI Developer | AI Automation & Agentic Systems
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-Machine%20Learning-blue?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud-Computing-lightgrey?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![AI Automation Engineering](https://img.shields.io/badge/AI%20Automation%20Engineering-FF6F00?style=for-the-badge)
+![AI Agentic Development](https://img.shields.io/badge/AI%20Agentic%20Development-6A1B9A?style=for-the-badge)
 
 ---
 
-## About Me
+## About me
 
-I'm an aspiring *AI & Cloud Developer* passionate about building impactful projects.  
-I enjoy learning new technologies, experimenting with AI models, and exploring cloud platforms.  
+I build **end-to-end AI solutions** — from data extraction and scoring to human-in-the-loop approval workflows — using Python, FastAPI, Celery, and OpenAI. I'm also expanding into **process automation**, combining traditional automation tools with AI agents to streamline real business operations.
 
-💡 I believe in *learning by doing* and sharing my journey through real projects.  
+## Currently
 
----
+- 🤖 Building AI automation workflows with **n8n**, **GoHighLevel**, and custom AI agents
+- 🎓 Working through **CS50x 2026** to strengthen my CS fundamentals
+- 🛠️ Studying **Systems Development** in a technical course
 
-## Skills
+## Featured projects
 
-- *Programming:* Python (Intermediate → Advanced)  
-- *AI & Machine Learning:* Model building, data processing, and experimentation  
-- *Cloud Computing:* Learning cloud platforms and deployment fundamentals  
-- *Problem Solving:* Applying tech knowledge to practical challenges  
+**[RevenueFlow AI](https://github.com/GoldzTech/RevenueFlow-AI)** — AI-powered lead qualification, scoring, proposal generation, and human-approval workflow (FastAPI, Celery, PostgreSQL, OpenAI). [Watch demo](https://youtu.be/oaYHY2RZnbM?si=Fdrrr_LMyfB60Zmy)
 
----
+**[LexMind AI](https://github.com/GoldzTech/LexMind-AI)** — AI-powered contract intelligence platform that reduces review time and surfaces legal/commercial risks with grounded, evidence-backed answers. [Watch demo](https://youtu.be/Y9ACih2kBTU?si=4QfMgAqes4hgp1-7)
 
-## Projects
+## Connect with me
 
-Here are some of the projects I'm currently working on:
-
-- *AI Experiments:* Mini projects to understand machine learning concepts.  
-- *Cloud Practice:* Learning deployment, serverless, and cloud basics.  
-- *Portfolio Projects:* Small apps and scripts demonstrating Python and AI skills.  
-
-(Project details coming soon!)
-
----
-
-## Connect with Me
-
-I love collaborating and learning from other developers:
-
-- [Linkedin](https://www.linkedin.com/in/miguel-ribeiro-de-sousa-b1478b375/)
-- [Instagram](https://www.instagram.com/miguel.techia?igsh=MXNwcDY2a3c2bnE3cg==) 
-
----
-
-### ⚡ Fun Fact
-
-I enjoy breaking down complex problems into simple solutions and improving my skills every day.
-
-<!--
-**GoldzTech/GoldzTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-ribeiro-de-sousa-b1478b375/)
